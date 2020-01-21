@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrogParkiingCrud", "FrogParkiingCrud.csproj", "{1DE7651F-2ABC-44EE-AE4F-34E453C51C90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DE7651F-2ABC-44EE-AE4F-34E453C51C90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DE7651F-2ABC-44EE-AE4F-34E453C51C90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DE7651F-2ABC-44EE-AE4F-34E453C51C90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DE7651F-2ABC-44EE-AE4F-34E453C51C90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30454450-F555-41FB-A240-82C7C3B1C003}
+	EndGlobalSection
+EndGlobal
